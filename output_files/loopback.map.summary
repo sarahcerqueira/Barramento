@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Dec 07 10:23:01 2017
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : loopback
+Top-level Entity Name : loopback
+Family : Cyclone IV E
+Total logic elements : 4,045
+    Total combinational functions : 3,855
+    Dedicated logic registers : 902
+Total registers : 902
+Total pins : 17
+Total virtual pins : 0
+Total memory bits : 206,848
+Embedded Multiplier 9-bit elements : 2
+Total PLLs : 0

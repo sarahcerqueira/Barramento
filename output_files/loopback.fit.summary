@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Dec 07 10:24:04 2017
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : loopback
+Top-level Entity Name : loopback
+Family : Cyclone IV E
+Device : EP4CE30F23C7
+Timing Models : Final
+Total logic elements : 3,964 / 28,848 ( 14 % )
+    Total combinational functions : 3,858 / 28,848 ( 13 % )
+    Dedicated logic registers : 902 / 28,848 ( 3 % )
+Total registers : 902
+Total pins : 17 / 329 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 206,848 / 608,256 ( 34 % )
+Embedded Multiplier 9-bit elements : 2 / 132 ( 2 % )
+Total PLLs : 0 / 4 ( 0 % )
